@@ -1,6 +1,7 @@
 # Note Taker
 
 ## Video Walkthrough
+[Untitled_ Jul 5, 2023 1_53 AM.webm](https://github.com/bsellers1/note-taker/assets/132436242/d6f872aa-417c-44ff-9467-a213358da939)
 
 ## Table of Contents
 - [Description](#description)
